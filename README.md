@@ -1,31 +1,23 @@
-# React & Tailwind CSS Starter Pack
+# StudyNotion
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+StudyNotion is an EdTech platform where users can enroll in courses, add them to their dashboard, and study. Instructors can also visit the platform to upload and manage their courses. 
 
-## Usage
+## Features
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+- **User Authentication**: Users can register and log in as a student or instructor.
+- **Student Dashboard**: Students can add enrolled courses to their dashboard and study.[Payment Integration]
+- **Instructor Dashboard**: Instructors can upload and manage their courses on the platform.
+- **Profile Management**: Users can edit their profiles.
+- **Course Viewing**: Students can view and study the content of the courses they are enrolled in.
+- Pagination done.
+- Review and Rating to the courses by the student can be given.
+- since double verification involve means otp has been send to your valid id so please login with below gmail accounts these are test id
+- and for enrolling in an other razorpay - otp - 436443
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+as an student u can login with these test id's -
+rahul2312swankar@gmail.com, password -- 121212,
+dummy1dad@gmail.com, password -- 121212
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
-
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+as an instructor login with this id --
+sonimohittest12@gmail.com, password - 121212
