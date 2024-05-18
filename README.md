@@ -12,7 +12,7 @@ StudyNotion is an EdTech platform where users can enroll in courses, add them to
 - Pagination done.
 - Review and Rating to the courses by the student can be given.
 - since double verification involve means otp has been send to your valid id so please login with below gmail accounts these are test id
-- and for enrolling in an other razorpay - otp - 436443
+- and for enrolling in course u can use this test card -- *** razorpay card payment testing number-- 4111 1111 1111 1111, Exp. - 02/26, CVV -- 123
 
 
 as an student u can login with these test id's -
